@@ -26,7 +26,7 @@ A standalone app that converts uploaded python code files to png format
 ---
 
 *OUTPUT FOLDER CHANGE*
-![Output](screenshot.mp4)
+![Output](screenshot.gif)
 *(Most of the fonts may not work for all Operating Systems and their different versions. Use Courier New for the best possible results.)*
 
 ---

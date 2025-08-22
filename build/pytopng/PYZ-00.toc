@@ -1,0 +1,4076 @@
+('C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+ 'projects\\library_management_system\\LibraryMangementSys_PyMYSQL\\lbms.v.1.3.0\\build\\pytopng\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('backports',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('json',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygments',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.groff',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\groff.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('pygments.formatters.pangomarkup',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\pangomarkup.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers._ada_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_ada_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._css_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_css_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._googlesql_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_googlesql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._julia_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_julia_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lilypond_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_lilypond_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._luau_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_luau_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._mysql_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_mysql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._qlik_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_qlik_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scheme_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_scheme_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._sql_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_sql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.ada',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ada.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.amdgpu',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\amdgpu.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.apdlexer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\apdlexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.arrow',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\arrow.py',
+   'PYMODULE'),
+  ('pygments.lexers.arturo',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\arturo.py',
+   'PYMODULE'),
+  ('pygments.lexers.asc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\asc.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.asn1',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\asn1.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.bare',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\bare.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.bdd',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\bdd.py',
+   'PYMODULE'),
+  ('pygments.lexers.berry',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\berry.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.blueprint',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\blueprint.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.bqn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\bqn.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.carbon',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\carbon.py',
+   'PYMODULE'),
+  ('pygments.lexers.cddl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\cddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.codeql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\codeql.py',
+   'PYMODULE'),
+  ('pygments.lexers.comal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\comal.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers.cplint',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\cplint.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.dax',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dax.py',
+   'PYMODULE'),
+  ('pygments.lexers.devicetree',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\devicetree.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.dns',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dns.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.elpi',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\elpi.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.fift',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\fift.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.func',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\func.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers.futhark',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\futhark.py',
+   'PYMODULE'),
+  ('pygments.lexers.gcodelexer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\gcodelexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.gdscript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\gdscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.gleam',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\gleam.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\graphql.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphviz',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\graphviz.py',
+   'PYMODULE'),
+  ('pygments.lexers.gsql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\gsql.py',
+   'PYMODULE'),
+  ('pygments.lexers.hare',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\hare.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.jmespath',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\jmespath.py',
+   'PYMODULE'),
+  ('pygments.lexers.jslt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\jslt.py',
+   'PYMODULE'),
+  ('pygments.lexers.json5',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\json5.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsonnet',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\jsonnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.jsx',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\jsx.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.kuin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\kuin.py',
+   'PYMODULE'),
+  ('pygments.lexers.kusto',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\kusto.py',
+   'PYMODULE'),
+  ('pygments.lexers.ldap',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ldap.py',
+   'PYMODULE'),
+  ('pygments.lexers.lean',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\lean.py',
+   'PYMODULE'),
+  ('pygments.lexers.lilypond',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers.macaulay2',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\macaulay2.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.maple',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\maple.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.maxima',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\maxima.py',
+   'PYMODULE'),
+  ('pygments.lexers.meson',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\meson.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.minecraft',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\minecraft.py',
+   'PYMODULE'),
+  ('pygments.lexers.mips',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\mips.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.mojo',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\mojo.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.numbair',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\numbair.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.openscad',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\openscad.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.pddl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\pddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.phix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\phix.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.pointless',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\pointless.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.procfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\procfile.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.promql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\promql.py',
+   'PYMODULE'),
+  ('pygments.lexers.prql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\prql.py',
+   'PYMODULE'),
+  ('pygments.lexers.ptx',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ptx.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.lexers.q',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\q.py',
+   'PYMODULE'),
+  ('pygments.lexers.qlik',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\qlik.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.rego',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rego.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.rita',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rita.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.savi',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\savi.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers.smithy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\smithy.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.soong',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\soong.py',
+   'PYMODULE'),
+  ('pygments.lexers.sophia',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\sophia.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.spice',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\spice.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.srcinfo',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\srcinfo.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.tablegen',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tablegen.py',
+   'PYMODULE'),
+  ('pygments.lexers.tact',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tact.py',
+   'PYMODULE'),
+  ('pygments.lexers.tal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tal.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.teal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\teal.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.thingsdb',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\thingsdb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tlb',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tlb.py',
+   'PYMODULE'),
+  ('pygments.lexers.tls',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tls.py',
+   'PYMODULE'),
+  ('pygments.lexers.tnt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\tnt.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.typst',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\typst.py',
+   'PYMODULE'),
+  ('pygments.lexers.ul4',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\ul4.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers.verifpal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\verifpal.py',
+   'PYMODULE'),
+  ('pygments.lexers.vip',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\vip.py',
+   'PYMODULE'),
+  ('pygments.lexers.vyper',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\vyper.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.webassembly',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\webassembly.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wgsl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\wgsl.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.wowtoc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\wowtoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.wren',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\wren.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers.yang',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\yang.py',
+   'PYMODULE'),
+  ('pygments.lexers.yara',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\yara.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles._mapping',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.coffee',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\coffee.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.styles.dracula',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\dracula.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly_grayscale',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\friendly_grayscale.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.gh_dark',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\gh_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.gruvbox',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\gruvbox.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.lightbulb',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\lightbulb.py',
+   'PYMODULE'),
+  ('pygments.styles.lilypond',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\lilypond.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.material',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\material.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.nord',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\nord.py',
+   'PYMODULE'),
+  ('pygments.styles.onedark',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\onedark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.staroffice',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\staroffice.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.zenburn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\styles\\zenburn.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.android',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.api',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.macos',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.unix',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.platformdirs.windows',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wheel',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\cli\\__init__.py',
+   'PYMODULE'),
+  ('wheel.cli.convert',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\cli\\convert.py',
+   'PYMODULE'),
+  ('wheel.cli.pack',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\cli\\pack.py',
+   'PYMODULE'),
+  ('wheel.cli.tags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\cli\\tags.py',
+   'PYMODULE'),
+  ('wheel.cli.unpack',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\cli\\unpack.py',
+   'PYMODULE'),
+  ('wheel.macosx_libfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('wheel.metadata',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\wheel\\metadata.py',
+   'PYMODULE'),
+  ('wheel.util',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\site-packages\\wheel\\util.py',
+   'PYMODULE'),
+  ('wheel.vendored',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._elffile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._manylinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._musllinux',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._parser',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._structures',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging._tokenizer',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.markers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\markers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.requirements',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.specifiers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.tags',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\tags.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.utils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\utils.py',
+   'PYMODULE'),
+  ('wheel.vendored.packaging.version',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\vendored\\packaging\\version.py',
+   'PYMODULE'),
+  ('wheel.wheelfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer '
+   'Science\\.conda\\Lib\\site-packages\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\ddaar\\OneDrive\\Desktop\\Class 12 Investigatory '
+   'projects\\Computer Science\\.conda\\Lib\\zipimport.py',
+   'PYMODULE')])

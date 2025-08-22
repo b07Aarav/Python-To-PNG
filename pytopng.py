@@ -10,7 +10,7 @@ class PyToPngApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("🐍 PyToPNG - Code Screenshot Tool")
-        self.geometry("900x600")
+        self.geometry("950x650")
         self.configure(bg="#f0f0f0")
         
         self.font = "DejaVu Sans Mono"
@@ -29,14 +29,19 @@ class PyToPngApp(tk.Tk):
         tk.Button(top_frame, text="📂 Select .py Files", command=self.select_files).grid(row=0, column=0, padx=10)
         tk.Button(top_frame, text="📸 Convert to PNG", command=self.convert_files).grid(row=0, column=1, padx=10)
         tk.Button(top_frame, text="🌗 Toggle Theme", command=self.toggle_theme).grid(row=0, column=2, padx=10)
+        tk.Button(top_frame, text="📁 Select Output Folder", command=self.select_output_dir).grid(row=0, column=3, padx=10)
 
         # Font picker
-        tk.Label(top_frame, text="Font:", bg=self["bg"]).grid(row=0, column=3, padx=(20, 5))
+        tk.Label(top_frame, text="Font:", bg=self["bg"]).grid(row=0, column=4, padx=(20, 5))
         self.font_var = tk.StringVar(value=self.font)
         self.font_menu = ttk.Combobox(top_frame, textvariable=self.font_var, values=[
             "DejaVu Sans Mono", "Courier New", "Consolas", "Liberation Mono"
         ])
-        self.font_menu.grid(row=0, column=4)
+        self.font_menu.grid(row=0, column=5)
+
+        # Display current output folder
+        self.output_label = tk.Label(self, text=f"Output Folder: {self.output_dir}", bg=self["bg"], anchor="w")
+        self.output_label.pack(fill="x", padx=20)
 
         # File list
         self.files_listbox = tk.Listbox(self, height=6)
@@ -57,6 +62,13 @@ class PyToPngApp(tk.Tk):
             self.files_listbox.delete(0, tk.END)
             for f in self.selected_files:
                 self.files_listbox.insert(tk.END, f)
+
+    def select_output_dir(self):
+        folder = filedialog.askdirectory(initialdir=self.output_dir)
+        if folder:
+            self.output_dir = folder
+            self.output_label.config(text=f"Output Folder: {self.output_dir}")
+            os.makedirs(self.output_dir, exist_ok=True)
 
     def toggle_theme(self):
         self.theme = "dark" if self.theme == "light" else "light"

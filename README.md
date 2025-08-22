@@ -20,9 +20,12 @@ A standalone app that converts uploaded python code files to png format
 
 ## Screenshots
 
-*(APP INTERFACE)*
+*APP INTERFACE*
 ![App Screenshot](screenshot.png)
-*(OUTPUT FOLDER CHANGE)*
+
+---
+
+*OUTPUT FOLDER CHANGE*
 ![Output](screenshot.mp4)
 *(Most of the fonts may not work for all Operating Systems and their different versions. Use Courier New for the best possible results.)*
 
